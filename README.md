@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Zsearcher.png" alt="Technical Cynite">
+  <img src="assets/Zsearcher.png" alt="Technical Arman">
 </p>
 <h1 align="center">
   <b>ᎪႮͲϴ-ҒᏆᏞͲᎬᎡ</b>
